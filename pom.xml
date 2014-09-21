@@ -81,7 +81,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
 <configuration>
 <server>tomcat-development-server</server>
 <port>9966</port>
-<path>/petclinic</path>
+<path>/ng-prerender-demo</path>
 </configuration>
 </plugin>
 
